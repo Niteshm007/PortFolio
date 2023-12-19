@@ -1,0 +1,59 @@
+/* @media screen and (max-width:1920px) {
+    .container {
+        max-width: calc(100% - 180px);
+    }
+}
+
+@media screen and (max-width:1200px){
+    .grid{
+        gap: 20px;
+    }
+
+    .home_data{
+        padding-right: 40px;
+    }
+
+    .home_title{
+        font-size: var(--big-font-size);
+    }
+
+    .home_description{
+        font-size: var(--small-font-size);
+    }
+
+    .skills_container{
+        row-gap: 32px;
+    }
+
+    .progress_circle{
+        width: 100px;
+        height: 100px;
+    }
+
+    .skills_title{
+        margin-top: 20px;
+    }
+
+    .resume_icon{
+        width: 36px;
+        height: 36px;
+        line-height: 38px;
+    }
+
+    .resume_item{
+        padding-left: 55px;
+    }
+
+    .project_modal_content{
+        max-width: 600px;
+    }
+
+    .modal_close{
+        width: 40px;
+        height: 40px;
+    }
+
+    .form_input-group{
+grid-template-columns: repeat(2, 1fr);
+    }
+} */
